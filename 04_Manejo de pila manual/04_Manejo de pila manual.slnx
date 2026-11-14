@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="04_Manejo de pila manual/04_Manejo de pila manual.vcxproj" Id="e43c8f8e-971f-4b98-bd37-1e79f288bcbe" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_Validar cadena/01_Validar cadena.vcxproj" Id="b86044f8-a6b5-4bf6-a16d-36a2ca7e7d47" />
+</Solution>
